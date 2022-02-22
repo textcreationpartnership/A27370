@@ -1,0 +1,766 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written by a minister for the satisfaction of a person doubting in religion shewn to be unsatisfactory.</title>
+            <author>P. I., Minister.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27370</idno>
+            <idno type="STC">Wing B185</idno>
+            <idno type="STC">ESTC R10043</idno>
+            <idno type="EEBO-CITATION">12533468</idno>
+            <idno type="OCLC">ocm 12533468</idno>
+            <idno type="VID">62810</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62810)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 304:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written by a minister for the satisfaction of a person doubting in religion shewn to be unsatisfactory.</title>
+                  <author>P. I., Minister.</author>
+                  <author>T. B.</author>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>[8], 38, [i.e. 30] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A defense of Catholicism.</note>
+                  <note>"To the reader" signed: P.I.</note>
+                  <note>Text of the letter, "Mr. T.B.'s paper to J.W.," dated Preston, Aug. 3, 1686: p. 1-8.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Transubstantiation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62810:1" rendition="simple:additions"/>
+            <p>A LETTER Written by a MINISTER, For the Satisfaction of a PERSON
+Doubting in RELIGION. Shewn to be Unſatisfactory.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the
+King's Moſt Excellent Majeſty for His Houſhold and Chappel. 1686.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:62810:2"/>
+            <pb facs="tcp:62810:2"/>
+            <head>TO THE READER.</head>
+            <p>I Know it will be expected by the Reader, I ſhould inform him
+what it was that occa<g ref="char:EOLhyphen"/>ſion'd theſe following Papers. <hi>J. W.</hi> a young
+man of <hi>Preſton</hi> in <hi>Lancaſhire,</hi> fell into ſome doubts
+about the main concern of his Soul, Whether he had hitherto the right
+<hi>Faith,</hi> or were in the true <hi>Church.</hi> Mr. <hi>T. B.</hi> whoſe
+Pariſhioner he was, us'd his beſt endeavours to diſſwade him from
+embracing the Catho<g ref="char:EOLhyphen"/>lic Communion. For which I ſhould not diſ<g ref="char:EOLhyphen"/>commend him,
+for it was preciſe duty in him, in caſe he verily judg'd the
+<hi>Negatives,</hi> in which <hi>Proteſtants</hi> differ from
+<hi>Catholics</hi> were <hi>True,</hi> and that he had any ſolid Grounds for
+judging ſo. Nay, he offer'd too to diſpute with any <hi>Roman-Catholic</hi>
+before him, to ſettle his Doubts, and give him ſatisfaction that the
+<hi>Proteſtant Religion</hi> was True: which was a very fair Proffer, had it
+been as candidly per<g ref="char:EOLhyphen"/>form'd. Whereupon I was invited to give him a meeting; And
+when I came, to make the Diſ<g ref="char:EOLhyphen"/>pute <pb facs="tcp:62810:3"/>ſhort, I began with the
+firſt Principle in Controverſie, <hi>The Rule of Faith.</hi> I told him,
+that all our Conteſt was ſumm'd up in this one Enquiry, What it was that
+Chriſt and his Apoſtles taught; and that if the Rule which was to acquaint
+us with, that were not abſo<g ref="char:EOLhyphen"/>lutely or infallibly Certain, all our Faith
+muſt by conſequence be <g ref="char:V">Ʋ</g>ncertain, and might poſſi<g ref="char:EOLhyphen"/>bly be an Errour. I
+alledg'd, that all <hi>His</hi> Rule that grounded <hi>His</hi> Perſwaſions
+about what was <hi>Faith,</hi> depended on Interpretations of Scripture, made
+by himſelf or the <hi>Proteſtant Church;</hi> both which being
+confeſſedly fallible, or poſſible to be deceiv'd, he might
+poſſibly, (that is, perhaps was actually) in an Errour as to all his Faith
+for ought he or they knew. When I expected an Anſwer, he ſtept to his
+Study, and fetch't down a great Book, biding me read that, and offering me to
+lend it. I admir'd at this ſtrange method of anſwering, that inſtead of
+replying, when he was preſt by my Reaſons, he could think it a competent
+ſatisfaction to tell me, he would lend me a Book to Read. Whereupon I preſt
+him for a poſitive Reply to my Diſcourſe, telling him, that ſince he
+had now Preach't a Do<g ref="char:EOLhyphen"/>ctrine, pretended to be Chriſt's, ſo many years, it
+was incredible he ſhould not be able to give <pb facs="tcp:62810:3"/>an account of his
+Faith, and the Ground it was built on, without the aſſiſtance of a
+Voluminous Book; the toſſing over which I ſaw was very convenient for
+him, to avoid anſwering, and to turn our Diſpute into an endleſs
+Wrangling, (which was all he aym'd at) but never to bring the point to any
+Iſſue. He ſtill inſiſting upon my Reading that huge Book, I deſir'd
+him to turn to any particular place in it, which he would undertake, gave an
+Anſwer to my for<g ref="char:EOLhyphen"/>mer Diſcourſe, and I would be contented to excuſe him,
+and conſider what it ſaid. But it would not be granted; ſo that I ſaw
+plain<g ref="char:EOLhyphen"/>ly, this was onely an invention to ward the blow from himſelf, and let
+it fall upon another. I preſt him again, to make out to us by Grounds of
+<hi>His,</hi> he could be abſolutely certain of any one point of Faith, nay,
+even that Chriſt was God. He reply'd, he believ'd it, becauſe it was in the
+Creed. I could have told him, the <hi>Socinians</hi> grant thoſe words in the
+Creed, and yet deny Chriſt to be truly God; but I wav'd this, and urg'd him
+to declare upon what inerrable Rule he believ'd what was con<g ref="char:EOLhyphen"/>tain'd in the
+Creed. <g ref="char:V">Ʋ</g>pon this, to avoid an<g ref="char:EOLhyphen"/>ſwering, he began the moſt diſingenuous
+cavil that ever man heard; and fell upon me <pb facs="tcp:62810:4"/>as if I believ'd not
+the Creed my ſelf; whereas I onely preſt him to ſhow us by <hi>His</hi>
+Grounds, or by any Rule of Faith proper to <hi>Proteſtants,</hi> as they are
+diſtinct from <hi>Catholics,</hi> how <hi>He</hi> could rationally believe
+even the Creed to be certain, and know the certain ſenſe of it, ſince
+it's Let<g ref="char:EOLhyphen"/>ter is as liable to miſconſtructions as the Scrip<g ref="char:EOLhyphen"/>ture is. I could
+do no leſs than tell him, how un<g ref="char:EOLhyphen"/>handſome this procedure was, to put upon
+me without the leaſt ſhow of reaſon or common ſenſe, a thing that
+never yet was ſaid or thought of any <hi>Roman Catholic</hi> in the World.
+But he with much heat, ſtill inſiſted, that I did disbelieve it,
+becauſe I urg'd him to ſhow how by <hi>His</hi> Principles <hi>He</hi> did
+or could believe it; and fell into a high paſſion. <g ref="char:V">Ʋ</g>pon which per<g ref="char:EOLhyphen"/>ceiving
+plainly, that all this pother and duſt was rais'd, to get clear of
+diſputing, and de<g ref="char:EOLhyphen"/>ſpairing to bring him to give any account of his Faith,
+even ſo much as pretending to ſhow it to be as true Faith ought to be,
+<hi>Infallibly certain,</hi> I came away with the young man, he having firſt
+declar'd before Mr. <hi>T. B's.</hi> face, that he was fully ſatisfi'd, he
+could give no account of his Faith, and conſequently was not to be follow'd:
+and upon this became a <hi>Catholic.</hi>
+            </p>
+            <pb facs="tcp:62810:4"/>
+            <p>Theſe things having paſt on in this manner here related, as
+ſoon as I ſaw a Paper from him, to the young man, which here follows, I
+durſt have ſworn it had been ſome Account of the Certainty of his Faith,
+in regard that was ſtill incumbent on him, having been left in ſo great a
+paſſion about that Point at our laſt Interview. But, it ſeems it was
+too hard a morſel for his tender skill to nibble upon; and inſtead of that,
+other points, though ne<g ref="char:EOLhyphen"/>ver ſo remote, are fetcht in by head and ſhoul<g ref="char:EOLhyphen"/>ders
+to keep off that diſcourſe. How ill he han<g ref="char:EOLhyphen"/>dles theſe too, will appear by
+the following An<g ref="char:EOLhyphen"/>ſwer. But all theſe diverſions ſhall not ſerve his
+turn. <hi>That</hi> is, the point about which our Diſcourſe was
+<hi>then,</hi> 'tis <hi>that</hi> which ſtuck on his ſide; 'tis
+<hi>that</hi> concerning which he yet owes ſatisfaction; and conſequently,
+'tis <hi>that</hi> to which with all right and reaſon, I muſt ſtill
+demand an Anſwer, and challenge him to run the Liſts if he do not perform
+it.</p>
+            <closer>
+               <signed>P. I.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:62810:5"/>
+            <pb n="1" facs="tcp:62810:5"/>
+            <head>Mr. <hi>T. B.</hi>'s PAPER To <hi>J. W.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>PRESTON,</hi> 
+                  <date>Aug. 3. 1686.</date>
+               </dateline> 
+               <salute>Poor Soul,</salute>
+            </opener>
+            <p>IT is now more than ſix Weeks ſince I obſerved your
+Apoſtatizing from our Church; during which time, I have not been remiſs in
+praying for your Recovery; and now think it ſeaſonable, by this ſhort
+Paper, to endeavour it.</p>
+            <p>The pretended cauſe is, you cannot ob<g ref="char:EOLhyphen"/>tain ſatisfaction among
+us, about thoſe two points, <hi>Tranſubſtantiation</hi> and
+<hi>Purgatory,</hi> (but moſtly the former.)</p>
+            <p>Your Soul being (in my opinion) in great danger by the courſe
+you take, I could not (with any quiet) ſee you ſo expoſe your ſelf; and
+wiſhed that you might rather beſtow your thoughts, on what more immediately
+touched you, and was more ſuited to your Capacity: But ſeeing it verified
+in you (which is in moſt perſons) that you are moſt buſie about what
+leaſt concerns you; and <pb n="2" facs="tcp:62810:6"/>nothing pleaſeth your Fancy, but
+what flies above your Underſtanding. I purpoſed to let you know my thoughts
+(even) in the remote queſtion of <hi>Tranſubſtantiation;</hi> of which,
+if you make good uſe, I ſhall proceed to the latter.</p>
+            <p>Yet I deferred the thing, till I could learn, that the Perſon on
+whoſe Ability you lean, (<hi>viz.</hi> Mr. <hi>G.</hi>) was returning from
+<hi>London,</hi> that he might be near at hand to furniſh you with Anſwers;
+to the intent I ſhould not be calumniated, as a Deſigner to ſurprize and
+lurch you.</p>
+            <p>Wherefore I now ſend theſe few Lines, to deſire you to
+provide your ſelf of a ſatisfacto<g ref="char:EOLhyphen"/>ry reſolution about this Queſtion, or
+let me receive intimation how that ſatisfaction doth ariſe. I abridge you
+not of liberty to con<g ref="char:EOLhyphen"/>ſult with any other perſon that may add any thing to
+Mr. <hi>G.</hi> for I love Truth, and am loath you ſhould be carried away
+with Falſ<g ref="char:EOLhyphen"/>hood: and nothing will more content me, than to receive an Anſwer
+of weight to this Paper; which ſhall (at this time) onely touch a few doubts,
+many more being reſerved to be propoſed when theſe are cleared.</p>
+            <p>At preſent I muſt tell you, 1. What you are (or muſt be)
+taught to Believe.2. How <pb n="3" facs="tcp:62810:6"/>hard it will be for you to Believe
+what you ſhall be ſo Taught.</p>
+            <p>In the former, I'll note the Doctrines Taught, and the Method of
+Teaching them. The latter, <hi>viz.</hi> the Method, I begin with.</p>
+            <p>That you may believe, your Mind muſt be abſtracted (as much as
+poſſible it may) from the judgment of your own Senſes. Now this method
+will be hard for you to ſubmit to, when you conſider that it is about their
+proper object, and your Senſes duly diſpoſed to give their judgment, and
+the common Senſes of Mankind concurring with yours.</p>
+            <p>But yet this will be yet harder to digeſt,<note place="margin">John <hi>20.27.</hi> 1 John <hi>1.1.</hi>
+               </note> ſeeing this new
+method is directly contrary to the method which Chriſt uſed to inſtruct
+<hi>Thomas;</hi> which was not to abſtract his Mind from the judgment of his
+Senſes, but to em<g ref="char:EOLhyphen"/>ploy his Mind about the judgment of his Sen<g ref="char:EOLhyphen"/>ſes. The
+method alſo of St. <hi>John,</hi> is not to abſtract from the judgment of
+the Senſes, but he appeals to the judgment of the Senſes, to beget and
+confirm Faith. Hence therefore the firſt Queſtion will ariſe:</p>
+            <p n="1">1. <hi>Queſt.</hi> Why the method of your new Teachers, is
+ſo oppoſite to the method of Chriſt and his Apoſtles?</p>
+            <pb n="4" facs="tcp:62810:7"/>
+            <p>Now to the Doctrines taught.</p>
+            <p>Three things moſt admirable are effected in the
+<hi>Euchariſt,</hi> by the words of Conſecra<g ref="char:EOLhyphen"/>tion, which the Catholick
+Faith believes and confeſſeth without any doubting.</p>
+            <p>1. That the true Body of Chriſt, even the ſame which was born
+of the Virgin, and now ſits in Heaven at the right hand of the Fa<g ref="char:EOLhyphen"/>ther, is
+contained in the Sacrament.</p>
+            <p>2. That no ſubſtance of the Elements re<g ref="char:EOLhyphen"/>mains in it.</p>
+            <p>3. That the Accidents which are percei<g ref="char:EOLhyphen"/>ved by the Senſes, are,
+in a wonderful and inexplicable manner, without any ſubject matter: the
+ſubſtance of the Bread and Wine are ſo changed, that they wholly ceaſe
+to be; but the Accidents (even all of them) of the Bread and Wine, you may
+ſee and per<g ref="char:EOLhyphen"/>ceive, which inhere in no ſubſtance, but con<g ref="char:EOLhyphen"/>ſiſts by
+themſelves. The proof of this follows.</p>
+            <p>Now the words of Chriſt are ſo plain (in this matter) that
+none in his ſound mind can be ignorant, what he muſt underſtand when he
+hears, <hi>This is my Body.</hi>
+            </p>
+            <p>Alſo the words of <hi>Paul</hi> are plain, 1 <hi>Cor.</hi> 11.
+<hi>Let a man examine,</hi>&amp;c. <hi>He that eatech and drinketh unworthily,
+eateth and drinketh dam<g ref="char:EOLhyphen"/>nation <pb n="5" facs="tcp:62810:7"/>to himſelf, not diſcerning
+the Lords body.</hi> For what need is there of ſuch weighty words, if there
+were nothing in the Sacrament, but a memory and ſign of Chriſt's
+Paſſion, as Here<g ref="char:EOLhyphen"/>ticks teach? The ſame thing <hi>Paul</hi> more at large
+explained in theſe words: <hi>The cup of bleſſing which we bleſs, is it
+not the communi<g ref="char:EOLhyphen"/>cation of the bloud of Chriſt?</hi>
+            </p>
+            <p>You hear the Doctrine and the Proof of it from Chriſt and
+<hi>Paul;</hi> now for the expli<g ref="char:EOLhyphen"/>cation of theſe words, to make out the
+proof.</p>
+            <p>Theſe places of Scripture, muſt be ſo ex<g ref="char:EOLhyphen"/>plained by the
+Paſtors, and this muſt chiefly. be taught, that nothing of doubtfulneſs
+or uncertainty is left (of what was above-ſaid) eſpecially when the
+Authority of the Church of God hath interpreted theſe things: the knowledge
+of which we attain two ways. 1. When we conſult with the Fathers who
+flouriſhed from the beginning of the Church, and ſo downward. 2. When we
+ſee the contrary Opinion condemned.</p>
+            <p>This Doctrine thus proved by Scripture, and the Scripture they
+explained you muſt believe. Now to ſhew how hard it will be for you to
+believe this, theſe following Que<g ref="char:EOLhyphen"/>ſtions are propoſed.</p>
+            <pb n="6" facs="tcp:62810:8"/>
+            <p>1. <hi>Queſt.</hi> Whether the words of Chriſt be<g ref="char:EOLhyphen"/>ing
+Spiritual, it may not ſuffice to take them in a Spiritual Senſe, but it be
+neceſſary to take them in the literal ſenſe of his natural body, and
+that without a Figure?</p>
+            <p>2. <hi>Queſt.</hi> Whether the firſt Article be not
+ſufficiently believed, when the Body of Chriſt is believed to be really
+truly preſent, even the ſame Body, but not in the ſame manner?</p>
+            <p>3. <hi>Queſt.</hi> Whether the ſecond and third Ar<g ref="char:EOLhyphen"/>ticles be
+of equal Truth and Certainty with the firſt, and muſt ſo be believed?</p>
+            <p>4. <hi>Queſt.</hi> Whether the words cited for proof, are
+intended to prove all Three Arti<g ref="char:EOLhyphen"/>cles equally, or the Firſt only, and the
+Second and Third are left to ſhift for themſelves?</p>
+            <p>5. <hi>Queſt.</hi> Whether every one in his wits can ſee
+ſuch inforcement in the words of Chriſt or <hi>Paul,</hi> without the
+eſpecial helps of the Churches Authority and the Fathers?</p>
+            <p>6. <hi>Queſt.</hi> If not, then whether Reaſon wil<g ref="char:EOLhyphen"/>leth that
+not the Church in the Apoſtles times, ſhould be principally heard in this
+Authori<g ref="char:EOLhyphen"/>tative Interpretation?</p>
+            <p>7. <hi>Queſt.</hi> Whether you are truly taught that we
+Hereticks ſay, That in the Sacrament there is nothing elſe but a Memory and
+a <pb n="7" facs="tcp:62810:8"/>Sign of Chriſts Paſſion? And whether the Fa<g ref="char:EOLhyphen"/>thers
+that prove there is ſomething more, and condemn ſuch as ſay there is
+nothing more, do prove any thing againſt us, or do condemn us?</p>
+            <p>I ſhould now think it reaſonable, to requeſt of you to
+return to us, until theſe difficulties be overcome. But if Mr.<hi>G.</hi>
+will not yield to this requeſt, then I pray you, improve all your intereſt
+with him for ſome ſatisfaction for your ſelf and me, what is his true and
+ſerious ſenſe of this whole matter, and put him to it on his own behalf
+in this manner, <hi>viz.</hi>
+            </p>
+            <p>Sir, ſeeing <hi>if I eat unworthily, I eat judg<g ref="char:EOLhyphen"/>ment to my
+ſelf. If I diſcern not the Lords Bo<g ref="char:EOLhyphen"/>dy in eating, I eat unworthily. If I
+diſcern not the very ſame Body form'd in the Womb,</hi> &amp;c. <hi>If I
+diſcern not accidents without a ſubſtance,</hi> &amp;c. <hi>I diſcern
+not the Lords Body.</hi>
+            </p>
+            <p>Therefore, that I may be confirmed, I be<g ref="char:EOLhyphen"/>ſeech you aſſure me
+concerning your ſelf, who are ſtrong in Faith, whereas I am but weak. Your
+ſelf, who know your own intention in Conſecrating, whereas I know it not.
+Your ſelf, who have looked upon and examined the Elements that they are not
+corrupted, whereas I have not. Your ſelf, who have uttered the words of
+Conſecration, whereas I perhaps, <pb n="8" facs="tcp:62810:9"/>heard not, perhaps
+underſtood not. I ſay, That you your ſelf are ſo right in your wits, as
+to perceive no doubt, nor uncertainty in this matter, but that you do fully,
+abſolute<g ref="char:EOLhyphen"/>ly, and without reſervation, forever renounce all your part and
+hope in the Body and Blood of Chriſt, if this Sacrament now by you
+Con<g ref="char:EOLhyphen"/>ſecrated, be not the very ſame natural fleſh and natural Blood, which
+was formed in the Virgins Womb, hung upon the Croſs, was bu<g ref="char:EOLhyphen"/>ried, aroſe,
+and now ſits at Gods right hand; but is ſo changed, that upon the
+ſpeaking of the words, here's no more ſubſtance of Bread and Wine, but
+the Smell, Colour, Form, and all other Accidents of Bread and Wine are truly
+remaining, without any ſubject matter for them to remain in. That your Eyes,
+Noſe, Hands, Palate, do deceive you in their judg<g ref="char:EOLhyphen"/>ment about the
+ſubſtance, but at the ſame time, do not deceive you about the Accidents
+of Bread and Wine.</p>
+            <p>I beg that you will preſs him for a clear re<g ref="char:EOLhyphen"/>ſolution of the
+former Queſtions, and this laſt eſpecially, as touching himſelf, and
+tranſmit it to me; which ſhall ever be acknowledged your kindneſs to me,
+as well as juſtice to your ſelf.</p>
+            <closer>
+               <signed>T. B.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="9" facs="tcp:62810:9"/>
+            <head>AN ANSWER To the fore-going PAPER.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received a Paper of yours, to which you require a
+<hi>Satisfactory</hi> Anſwer, and deſire earneſtly of your Friend to
+<hi>preſs</hi> me for a <hi>Clear Reſolution.</hi> I muſt in the firſt
+place acknowledge very heartily, that you are the moſt civil Adverſary I
+ever yet met with: For, you are ſo far from <hi>attacking</hi> me rudely, or
+<hi>preſſing</hi> me with any <hi>Argument,</hi> as other brisker
+Diſputants uſe, that you do not ſo much as attempt to <hi>offer</hi> any,
+nor ſcarce advance one ſingle Propoſition; nay, not ſo much as put down
+your own Tenet expreſly: Which certainly is the moſt civil way of
+<hi>Diſputing</hi> that ever was heard of, if indeed it may be allow'd that
+Name, and <pb n="10" facs="tcp:62810:10"/>ought not rather be call'd a <hi>ſaying juſt
+No<g ref="char:EOLhyphen"/>thing;</hi> all your performance in this Paper, being (as you here tell us)
+to <hi>touch a few Doubts;</hi> and I muſt confeſs, you <hi>touch</hi> them
+very gingerly; I ſuppoſe, leſt being <hi>preſt,</hi> they ſhould
+diſcover their <hi>ſoft</hi> temper.</p>
+            <p>Your gentile way of ſetting upon me, is to <hi>ask me
+Queſtions:</hi> I will not object the Proverb, That a <hi>Fool may ask more
+Questi<g ref="char:EOLhyphen"/>ons, than a Wiſe man can anſwer;</hi> for it nei<g ref="char:EOLhyphen"/>ther ſuits with
+you nor me. Not with <hi>you;</hi> for, by proceeding in this method, you
+ſhew your ſelf a deep Politician, and keep out of the reach, nay out of the
+poſſibility of a Con<g ref="char:EOLhyphen"/>futation: ſince no man living knows how to take hold
+of an Adverſary, who <hi>affirms</hi> no<g ref="char:EOLhyphen"/>thing himſelf, but onely
+<hi>asks</hi> another. One<g ref="char:EOLhyphen"/>ly I muſt ſay, this way of handling
+Contro<g ref="char:EOLhyphen"/>verſie, by <hi>Catechizing</hi> your Adverſary, inſtead of
+<hi>Arguing</hi> againſt him, is an invention ſo pleaſant and
+ſurprizing, ſo new and ſo un<g ref="char:EOLhyphen"/>heard of to the dull World hitherto, that
+you have all the right and reaſon in the World to get a Patent for it, that
+none may uſe it without your Licenſe. Nor will that Proverb ſute with me;
+for I hope you are well ſatisfied, you ſhall never fail of an An<g ref="char:EOLhyphen"/>ſwer 
+<pb n="11" facs="tcp:62810:10"/>from me, when you produce any ſub<g ref="char:EOLhyphen"/>ſtantial proofs,
+ſince you ſee I have that re<g ref="char:EOLhyphen"/>ſpect for you, as to undergo here, for your
+ſake, the drudgery to ſweep down your very Cobwebs.</p>
+            <p>Now, your Arguments being ſo perfectly unconquerable, (for they
+are altogether in<g ref="char:EOLhyphen"/>viſible) it was but reaſon you ſhould ſay, that no
+leſs than <hi>an Anſwer of weight to this Pa<g ref="char:EOLhyphen"/>per,</hi> would content you.
+Though I cannot comprehend the Myſtery, why the Anſwer needs be ſo
+<hi>weighty,</hi> when there is nothing but a few <hi>feathers</hi> and
+<hi>ſtraws</hi> in the counter<g ref="char:EOLhyphen"/>ballance; yet I muſt ſeriouſly grant,
+that 'tis in ſome caſes requiſite, that Queſtions ſhould be askt when
+the Adverſary's Tenet is not well underſtood; that ſo the Arguments may
+not be wrong levell'd againſt ſome po<g ref="char:EOLhyphen"/>ſition, which perhaps he neither
+holds nor maintains: For this gives the Arguer a right aim, and makes clearer
+way for the future Diſpute. But, alas! your modeſt way of arguing has no
+ſuch high ambition; for, you tell us here very learnedly, <hi>This Paper
+ſhall onely touch a few Doubts, many more being re<g ref="char:EOLhyphen"/>ſerv'd to be propos'd,
+when theſe are clear'd.</hi> So that for any thing I ſee or am to expect, 
+<pb n="12" facs="tcp:62810:11"/>your intention is onely to go on <hi>asking Que<g ref="char:EOLhyphen"/>stions</hi>
+to the end of the Chapter, and ſo turn the <hi>Controverſie</hi> into a
+meer <hi>Catechiſm,</hi> conſiſting onely of Queſtions and Anſwers;
+onely you provide wiſely, that your ſelf bear the eaſier and more
+honourable part in the Dialogue, and aſſuming to your ſelf the
+mageſtical Office of the <hi>Catechiſt,</hi> make me the poor ignorant
+Catechumen, to be pos'd at your pleaſure.</p>
+            <p>But I beſeech you, Sir, (that we may be a little ſerious) what
+needs this fluttering about with <hi>Queſtions,</hi> and other frivolous
+pre<g ref="char:EOLhyphen"/>tences, as if you were ignorant what I held about
+<hi>Tranſubſtantiation,</hi> or what the perſon concern'd, is to hold for
+Faith? You know well enough before-hand, 'tis already pub<g ref="char:EOLhyphen"/>lickly extant in the
+Council of <hi>Trent;</hi> ſo that you might have ſav'd all this
+ſleeveleſs labour, and have fallen to work with your Arguments, to combat
+its Definition in this particular point. If you overthrow that, you reduce
+<hi>J. W.</hi> and make a Proſelyte of me too; if you do not, we both ſtand
+where we were, and all your feeble Talk is utterly in<g ref="char:EOLhyphen"/>ſignificant. This
+Council is received, as to matters of <hi>Faith,</hi> by the whole diffuſive
+Bo<g ref="char:EOLhyphen"/>dy <pb n="13" facs="tcp:62810:11"/>of all thoſe particular Churches in Com<g ref="char:EOLhyphen"/>munion with
+the <hi>Roman,</hi> and proceeds all along upon the Rule of Catholic Faith,
+<hi>Tradition.</hi> If you will go to work like a Controvertiſt, you ought to
+impugn her and us by Scripture, interpreted by as great Au<g ref="char:EOLhyphen"/>thority, proceeding
+upon that Rule, or ſome other more certain: for all Arguments of leſs
+weight, cannot with any ſhew of Reaſ<g ref="char:EOLhyphen"/>on, pretend to ſhock her or the
+Faith ſhe re<g ref="char:EOLhyphen"/>commends; and all other Proofs (had you any) would be but
+running voluntary diviſions upon your own Fancy. If then you have the leaſt
+hope to gain credit to your explications of Scripture, which are contrary to
+hers, it were adviſable you ſhould firſt ſhew evidently to the World,
+what <hi>Na<g ref="char:EOLhyphen"/>tural Means</hi> you have above the whole Body of the Roman
+Catholic Church, enabling you to underſtand Scripture better than ſhe does:
+Or, if you pretend to <hi>Supernatural</hi> Gifts a<g ref="char:EOLhyphen"/>bove her, ſhew us ſome
+Supernatural out<g ref="char:EOLhyphen"/>ward Teſtimony, certifying us of this invi<g ref="char:EOLhyphen"/>ſible
+qualification you lay claim to. If you do either of theſe, you will do
+wonders; but I am ſure, and your ſelf is conſcious, you are ſo utterly
+unable to manifeſt that your ſelf, <pb n="14" facs="tcp:62810:12"/>or the Proteſtant
+Church have either of theſe advantages above the Catholic, that, as it was
+never attempted, though it would moſt high<g ref="char:EOLhyphen"/>ly avail your Cauſe, could you
+compaſs it, ſo the very going about it, would ſhame the Attempter. And,
+unleſs you do this, what man in his wits will believe you underſtand
+Scripture better than that Great and moſt Learned Body of the Roman Catholic
+Church? This being as abſurd, as to think a man may compaſs an End better
+without better means; that is, as to that degree which is <hi>better,</hi>
+without means. This is your Duty, Sir, if you hope to gain any cre<g ref="char:EOLhyphen"/>dit to your
+Cauſe, or would ſhew your ſelf a Controvertiſt: But I perceive you have
+been ſo accuſtomed to Preaching, where you have your full ſwing in the
+Pulpit, to talk on any faſhion againſt the abominable Rapiſts, without
+any to controul you; that you have conceiv'd ſome hope the ſame will paſs
+in Controverſie: Wherefore I muſt take the freedom to tell you, 'tis the
+duty of a Con<g ref="char:EOLhyphen"/>trovertiſt, to propoſe his or his Adverſary's Tenet
+clearly, and ſtate the Queſtion between them; and then bring his Proofs,
+and vouch them to be Concluſive. This is what be<g ref="char:EOLhyphen"/>comes <pb n="15" facs="tcp:62810:12"/>a
+Man, and a Scholar; and what falls ſhort of this, though it may paſs, (and
+per<g ref="char:EOLhyphen"/>haps with applauſe) in a <hi>Sermon,</hi> is perfectly ridiculous and
+insignificant in a <hi>Controverſie.</hi> But tis high time now to remember
+the drudging Service I promiſed you.</p>
+            <p>Paſſing by then your old ſaying, that the Perſon ſeeking
+ſatisfaction about Tranſub<g ref="char:EOLhyphen"/>ſtantiation <hi>leaſt concernd</hi> him; as
+if it were nothing to him, whether he Adord a piece of Bread <hi>with</hi>
+Chriſt, or Chriſt <hi>alone,</hi> I come to your <hi>Stuff;</hi> for I want
+another proper word to call it by, being forbid by common ſence to call it
+<hi>Reaſoning.</hi>
+            </p>
+            <p>You give us a taſte of your Philoſophy, in ſpeaking ſo
+ſoberly of <hi>the Judgment of Senſes, our Senſes giving their
+Judgments,</hi> and many other expreſſions of the like nature. By which you
+ſeem to make ac<g ref="char:EOLhyphen"/>count a mans Judgment lies in his Heels or Toes, or his Wits
+in his Elbows; for all theſe have Senſe: And, according to this new Scheme
+of Philoſophy you have enlightned the world with, the <hi>Senſe
+judges.</hi> I wiſh, for your own ſake, you had onely askt Que<g ref="char:EOLhyphen"/>stions here
+too; for you are as miſerably out in your Philosophy, as in your Divinity. As
+<pb n="16" facs="tcp:62810:13"/>to this whole buſineſs then, you may pleaſe to
+receive theſe few Inſtructions from a Friend. 1. That the Senſes are
+onely Or<g ref="char:EOLhyphen"/>gans or Inſtruments to tranſmit Impreſſions to the Brain, and
+ſo to the Soul, onely which <hi>judges</hi> or <hi>knows:</hi> and if the way
+to the Brain be intercluded, no knowl edge is produc'd by any impreſſion on
+Senſe. 2. That if the Senſes be duly diſpos'd, 'tis granted they ſend
+right impreſſions thither. 3. That 'tis gran<g ref="char:EOLhyphen"/>ted <hi>à
+
+fortiori,</hi> that if the Senſes be not vitia<g ref="char:EOLhyphen"/>ted by ſome Diſeaſe, or
+Miracle do not in<g ref="char:EOLhyphen"/>tervene, they never give our Judging Power wrong
+Advertiſements concerning their <hi>pro<g ref="char:EOLhyphen"/>per</hi> Objects. 4. That, in our
+caſe they are employ'd about their Proper Objects, which are certain
+Accidents or Qualities, as all Phi<g ref="char:EOLhyphen"/>loſophers agree: Nor are they in our
+caſe fallacious in repreſenting them. Now you would make
+<hi>Subſtance</hi> their Proper Object, and would have them inerrable in
+<hi>judging of Subſtances:</hi> Of which Poſitions, the firſt is utterly
+falſe, ſince all Learned men in the World agree, that <hi>Subſtance</hi>
+or <hi>Being</hi> is the proper Object of the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding.</hi> The
+ſecond is confuted by experience; for we ſee that in debaſed Money (for
+example) <pb facs="tcp:62810:13"/>and many other Inſtances, even <hi>all</hi> the
+Sen<g ref="char:EOLhyphen"/>ſes may deceive us in our judging of the Sub<g ref="char:EOLhyphen"/>ſtance of it by their
+Impreſſions; ſo that we are forc'd to call to our aſſiſtance the
+Ma<g ref="char:EOLhyphen"/>xims of our Reaſon, and uſe our beſt Art to frame a right Judgment in
+ſuch caſes. 5. A<g ref="char:EOLhyphen"/>mongſt thoſe Knowledges, of which, in our caſe, the
+Faithful are to make uſe to judge rightly of the Subſtance; the Knowledge
+that God has revealed, 'tis his Body, and that this is atteſted by his
+Church, proceeding on an inerrable Rule of Faith, deriving down to us
+Chriſt's Doctrine, is to be taken in for one, nay ought to have the
+chiefeſt Place; and, ſo, in due reaſon ought to restrain the Faithful
+from judging of this high Myſtery, according to the ordinary methods of
+Nature in other common Natural Effects. 6. That Faith comes by
+<hi>Hearing;</hi> which Senſe, employ'd about Sounds articulated, and
+complext with an al<g ref="char:EOLhyphen"/>moſt infinite variety, I could (were the place proper)
+demonſtrate to be more certain, than all the reſt of the Senſes put
+together; unleſs perhaps the Eyes employ'd about the various figuration of
+Letters. So that you ought not to have impos'd upon us, to deny the Cer<g ref="char:EOLhyphen"/>tainty
+of <hi>all</hi> the Senſes, but to have excepted <pb facs="tcp:62810:14"/>that of
+<hi>Hearing,</hi> converſant in the Objects now ſpoken of; eſpecially (as
+the Scripture tells you) this being the proper Senſe by which <hi>Faith
+comes,</hi> you ought in juſtice to have let the World know, that we allow
+indeed the abſolute Certainty of that Senſe which introduces
+<hi>Faith,</hi> and deny only the Certainty of ſome of the reſt in ſome
+Caſes, and in Objects which are not <hi>proper</hi> to them: this being
+indeed the true ſtate of our Tenet. Now, if <hi>Hearing</hi> alone can teach
+us Chriſt's Doctrine with a perfect Certainty, 'tis nei<g ref="char:EOLhyphen"/>ther good Manners to
+his Infinite Veracity, nor Juſtice to ſuch a vaſt Body of Atteſters,
+nor in any regard common ſence to truſt the more fallacious Senſes,
+eſpecially, not em<g ref="char:EOLhyphen"/>ploy'd neither about their Proper Objects, before the more
+certain one, employ'd about it's, aſſuring us God has ſaid it. Remember
+the Check St. <hi>Thomas</hi> had, for not believing upon the Teſtimony of
+others, to be credited as to their veracity (that is, not ad<g ref="char:EOLhyphen"/>mitting
+<hi>Faith</hi> propos'd and aſcertain'd to him by <hi>Hearing,</hi> but he
+would needs uſe the o<g ref="char:EOLhyphen"/>ther Senſes too) <hi>Beati qui non viderunt &amp;
+cre<g ref="char:EOLhyphen"/>diderunt,</hi> and apply it to your ſelf. 7. You diſtinguiſh not
+between the Sen<g ref="char:EOLhyphen"/>ſes <pb n="27" facs="tcp:62810:14"/>employ'd about the Motives antecedent
+to Faith, and about the Myſteries of Faith, as appears by your Citations out
+of Scripture. In the former, it becomes God's Providence to leave Nature to its
+free courſe, and us to judge according to its ordinary methods, in regard we
+have as yet no other Light to walk or judge by. But when once through
+<hi>Hearing</hi> we are enlightned by Faith, it becomes then God's Providence,
+that the Myſteries pro<g ref="char:EOLhyphen"/>pos'd to us (they having a nearer approach to an
+Infinite Agent, the Omnipotence of God, than Natural Productions have) ſhould
+be ſo ſublime, as to be above the reach even of unelevated
+<hi>Reaſon,</hi> much more above the common and coarſe methods of
+Senſation, or the Judgments we frame from the Senſes a<g ref="char:EOLhyphen"/>lone. Pauſe upon
+theſe particulars, and ap<g ref="char:EOLhyphen"/>ply them, and you will ſee you are quite out in
+what I conceive you <hi>would be at;</hi> for you <hi>are at</hi> nothing yet
+but at asking Queſtions. But you divide your Text, and tell <hi>J. W.</hi>
+firſt, <hi>What 'tis he muſt be taught;</hi> and (ſe<g ref="char:EOLhyphen"/>condly) <hi>How hard
+it will be to believe it.</hi> Then, as to the former, you ſeem to
+ſubdi<g ref="char:EOLhyphen"/>vide it into the <hi>Doctrines Taught,</hi> and <hi>the method of
+Teaching them.</hi> Now <hi>the Doctrines <pb n="28" facs="tcp:62810:15"/>taught,</hi> was
+the <hi>Genus</hi> or Thing to be divi<g ref="char:EOLhyphen"/>ded, and here you ſeem to make it one
+of the <hi>Species</hi> or Members dividing; and ſo make it at once
+<hi>above</hi> and <hi>under</hi> it ſelf: But this is onely a ſlip of your
+Logick, <hi>noting</hi> (as you call it) <hi>the Doctrines Taught,</hi> as one
+of the things to be conſidered in <hi>the Doctrines Taught.</hi> And,
+certainly, ſuch a rare <hi>Note</hi> is well worth the marking.</p>
+            <p>By what's ſaid above, the Reader will ſee, what a heedleſs
+Quoter of Scripture you are, though it be your beſt or rather onely Ta<g ref="char:EOLhyphen"/>lent.
+You alledge againſt us, 1 <hi>John</hi> 1. v. 1. where the firſt words are,
+<hi>Quod audivimus, That which we have heard;</hi> as if we forbid you to uſe
+your <hi>Hearing,</hi> by which <hi>Faith</hi> comes. For it is evident beyond
+all need of Proof, that as the Church <hi>heard</hi> Chriſt, ſo if every
+ſucceeding Age had follow'd what they <hi>heard</hi> from the former,
+Chriſtian Faith muſt have continu'd till now the ſelf-ſame the
+Apoſtles heard from Chriſt; and, as long as this Method (call'd by us
+<hi>Tradition</hi>) is follow'd, it muſt ever continue ſtill the
+ſelf<g ref="char:EOLhyphen"/>ſame to the Worlds End. Now we are ſo far from bidding you not
+follow the Adver<g ref="char:EOLhyphen"/>tiſements of your Senſes, that our onely 
+<pb n="29" facs="tcp:62810:15"/>Quarrel to you is, that you relinquiſht the moſt
+certain <hi>Senſe,</hi> the <hi>Hearing</hi> your Lawful Paſtors in the
+Church you left, and fell to ſcan Myſteries of Faith by the leſs-certain
+ones, employed about Objects not within their cognizance, and (which is as
+abſurd) Gloſſing Scripture-Texts, without any Rule to guide you, but your
+own aukward Fan<g ref="char:EOLhyphen"/>cies.</p>
+            <p>Next follow in your Papers, the <hi>Doctrines taught</hi> with
+Proofs, which properly and di<g ref="char:EOLhyphen"/>rectly belong onely to the firſt Article,
+<hi>viz.</hi> That the True Body of Chriſt is contained in the Sacrament. But
+ſuch as your ſelf will ne<g ref="char:EOLhyphen"/>ver he able todiſprove, <hi>viz.</hi> the
+Scripture in<g ref="char:EOLhyphen"/>terpreted by the Church, the Teſtimonies of Fathers
+witneſſing the Tradition of the Church in their time, and the Condemnation
+of the contrary Opinions denying the Real Pre<g ref="char:EOLhyphen"/>ſence, and
+<hi>Tranſubſtantiation,</hi> as Heretical.</p>
+            <p>What ſhould move you thus to ſhew the weakneſs of your own
+Cauſe, which has no other Rule of your Faith, but Scripture in<g ref="char:EOLhyphen"/>terpreted by
+every man's Private Spirit or Reaſon, and can bear no proportion with that of
+the publick Interpretation of the Church, atteſted, by the Authority of the 
+<pb n="30" facs="tcp:62810:16"/>moſt Eminent Fathers of the Primitive Times, and
+ſtrengthned by the Condemnation of the contrary Hereſies, I cannot eaſily
+imagine; but finding them too ſtrong to be combated by ſo weak a Champion,
+you fairly take leave of them, and betake your ſelf to ſhew in the next
+place, after your faſhion, that is, blindly, how <hi>hard</hi> it will be to
+believe this Doctrine by <hi>asking</hi> us <hi>Queſtions.</hi> And I muſt
+confeſs, 'tis moſt inſuparably hard, if <hi>Senſes</hi> muſt be
+admit<g ref="char:EOLhyphen"/>ted to <hi>Judge</hi> of the hidden and moſt abſtruſe Myſteries
+of Faith, which is your darling Me<g ref="char:EOLhyphen"/>thod; though any wiſe man would think,
+this would turn <hi>Faith</hi> into <hi>Experimental Knowledge,</hi> and ſo
+rather deſtroy all the Faith in the world. But my Task is ſet, and I muſt
+attend to your Queſtions.</p>
+            <p>To the firſt then I anſwer, That the words, <hi>This is my
+Body,</hi> are to be taken <hi>Literally,</hi> and yet the <hi>End</hi> of
+receiving, is meant <hi>Spiritu<g ref="char:EOLhyphen"/>ally:</hi> And, I farther ſay, That this
+<hi>Spiri<g ref="char:EOLhyphen"/>tual Nouriſhment</hi> conſiſting in raiſing in us devout
+Affections, is incomparably advanc'd by the <hi>Real Preſence</hi> of
+Chriſt's Body and Bloud: So that theſe two are ſo far from be<g ref="char:EOLhyphen"/>ing
+inconſiſtant, as you would hint, that the taking the words
+<hi>Literally,</hi> does exceedingly <pb facs="tcp:62810:16"/>conduce to the
+<hi>Spiritual</hi> feeding on Chriſt; even as far as the believing him really
+<hi>pre<g ref="char:EOLhyphen"/>ſent,</hi> is more apt to ſtir up Devotion in us, than the not
+believing it; or the receiving his <hi>Real Body,</hi> is above the receiving
+<hi>a piece of Bread</hi> ſignifying it, which is beyond all pro<g ref="char:EOLhyphen"/>portion.</p>
+            <p>To the ſecond Queſtion, I anſwer affirma<g ref="char:EOLhyphen"/>tively, If we
+regard the point of the <hi>Real Preſence</hi> preciſely: For we grant,
+that <hi>'tis ſufficient to believe the Body of Chriſt is really truly
+preſent, even the ſame Body, but not in the ſame manner.</hi> 'Tis the
+very Doctrine of the Council of <hi>Trent</hi> it ſelf, <hi>Seſſ.</hi>
+13. <hi>cap.</hi> 1. That the Body of Chriſt is in Heaven, <hi>juxta mo<g ref="char:EOLhyphen"/>dum
+exiſtendi naturalem</hi> (according to its na<g ref="char:EOLhyphen"/>tural manner of exiſting) and
+yet that 'tis in other places, <hi>Sacrament aliter praeſens,</hi> preſent
+Sacramentally. But I much fear you are not in earneſt here, when you ſeem
+to yield 'tis <hi>really truly preſent,</hi> but that this Kindneſs of
+yours, will grow cold, when it comes to the trial; and that theſe hearty
+expreſſions will dwindle away into Chriſt's Body, being here onely in a
+<hi>Sign;</hi> which is to ſay, the <hi>Sign</hi> is <hi>there,</hi> and his
+<hi>Body abſent.</hi> Hollow words are but wind, and 'tis hard to graſp
+Air.</p>
+            <pb facs="tcp:62810:17"/>
+            <p>To the Third, asking whether the Second and Third Article you put,
+be of equal Truth and Certainty with the Firſt, I anſwer, That I was never
+taught to believe a thing as a half-Truth, or a three-quarter Truth, but all to
+be True, (for Truth conſiſts in an Indi<g ref="char:EOLhyphen"/>viſible) which the Church has
+expreſly decla<g ref="char:EOLhyphen"/>red to be of Faith, by a General Council; and accordingly,
+whatſoever the Church, thus believes, and propoſes as an Article of Faith,
+I abſolutely believe and embrace as Truths delivered by Chriſt and his
+Apoſtles.</p>
+            <p>To the Fourth I anſwer, as above, That the Proofs you ſet
+down, belong properly and directly only to the firſt Article. And as for the
+Second and Third, they may alſo ſhift well enough for themſelves, for any
+Autho<g ref="char:EOLhyphen"/>rity or Reaſon you have brought againſt either the one or the other.
+But I would gladly know, how all your Faith will ſhift for it ſelf, having
+nothing to keep it from ſinking into an inferiour Aſſent (call'd
+<hi>Opini<g ref="char:EOLhyphen"/>on</hi>), nay into a maſs of ſenceleſs Errours, as far as it
+oppoſes <hi>Tradition,</hi> but your ſelf; and other Fallible Interpreters
+like your ſelf to buoy it up.</p>
+            <pb n="33" facs="tcp:62810:17"/>
+            <p>As for your Fifth, I know no <hi>enforce<g ref="char:EOLhyphen"/>ment</hi> that is beyond
+Cavil in any one place of Scripture which is Dogmatical, while the words are
+left to be toſt by Criticiſms, Gram<g ref="char:EOLhyphen"/>mar-learning, Alluſions of places to
+one ano<g ref="char:EOLhyphen"/>ther, and ſuch like little tricks. No one word in thoſe Sacred
+Books can eſcape being equivocal or double ſenc't, while the word
+<hi>[God]</hi> which of all others ſhould ſeem in<g ref="char:EOLhyphen"/>communicable, is
+Wier-drawn by ſuch ſhifts to ſignifie a <hi>Creature,</hi> as we
+experience in the <hi>Arians</hi> and <hi>Socinians</hi> gloſſes upon
+thoſe Texts which concern Chriſt's Divinity. You know well enough already,
+that neither my ſelf, nor any Catholic builds our Faith upon any Text of
+Scripture, interpreted by our own private Fancy, but onely by the publick
+Tradition of the Church.</p>
+            <p>Your Sixth asks, <hi>If the Church muſt be taken in to expound
+Scripture, whether Rea<g ref="char:EOLhyphen"/>ſon willeth not, that the Church in the Apoſtles
+time, ſhould be principally heard in their Au<g ref="char:EOLhyphen"/>thoritative
+Interpretation?</hi> I anſwer, In caſe you mean the Apoſtles were of
+greater <hi>Authority</hi> than their Succeſſors, 'tis granted: But if your
+Queſtion relates to the <hi>Truth</hi> 
+               <pb n="34" facs="tcp:62810:18"/>of what the Church
+delivers, 'tis the ſame as to ask, whether the Holy Ghoſt, that
+aſſiſts the Church, ſpake truer one time than another.</p>
+            <p>Your Seventh Queſtion, whether you are truly repreſented, by
+putting you to ſay, <hi>There is nothing elſe in the Sacrament, but a
+Memory and Sign of Chriſt's Paſſion; and whether the Fathers that prove
+there is ſome<g ref="char:EOLhyphen"/>thing more, and condemn ſuch as ſay there is nothing more,
+do prove any thing againſt you, or condemn you.</hi> I am heartily glad to
+ſee ſome glimmering hope of your Conver<g ref="char:EOLhyphen"/>ſion: For in caſe there be in
+the Sacrament, <hi>ſomething more than a Sign,</hi> as you ſeem here to
+acknowledge is your true Tenet, you muſt ſay the <hi>thing ſignify'd</hi>
+is there too, and ſo we are good Friends. But, becauſe this unexpected
+Confeſſion of yours, like the firſt New in a <hi>Gazette, needs a
+Confirmati<g ref="char:EOLhyphen"/>on,</hi> I beſeech you to ſatisfie me clearly, what this
+<hi>Thing</hi> is in the Sacrament, which is <hi>more,</hi> or <hi>more than a
+Sign:</hi> This way of <hi>queſtioning,</hi> is the worſt way of
+<hi>explaining</hi> in the world, though it be a ſpecial ſtrata<g ref="char:EOLhyphen"/>gem to
+avoid Confute.</p>
+            <pb n="35" facs="tcp:62810:18"/>
+            <p>Your Propoſals that follow, are very Ex<g ref="char:EOLhyphen"/>traordinary. I little
+thought that when you had done <hi>Catechizing</hi> me, you would put me to
+<hi>Swearing;</hi> nor that, when I ex<g ref="char:EOLhyphen"/>pected <hi>Arguments</hi> from another,
+I ſhould be forced to take my <hi>Oath</hi> my ſelf, that my Faith is true.
+But that you may have no cauſe to complain, I will gratifie you in that too,
+and do here frankly declare, without any Equivocation (which I abhor in an
+Oath) that I do renounce all my hopes of Heaven, (which is more than you put me
+to) pro<g ref="char:EOLhyphen"/>vided there be no fault in the matter, nor in the Prieſt, if there be
+not preſent in the Sacrament, after the words of Conſecration, Chriſt's
+very true Body, which was born of the Virgin, ſuffer'd on the Croſs, was
+bu<g ref="char:EOLhyphen"/>ried, aroſe, and now ſits at God's right hand, and this by the
+Converſion of the whole Subſtance of the Bread into his Bo<g ref="char:EOLhyphen"/>dy, as alſo of
+the Wine into his Bloud, the Species onely of Bread and Wine remaining, as is
+declared in the Council of <hi>Trent,</hi> Seſſ. 13. Can. 2. But now, Sir,
+having done this, take notice, that I muſt in requital challenge from you the
+ſame deep Pro<g ref="char:EOLhyphen"/>teſtation, <pb n="36" facs="tcp:62810:19"/>that your <hi>Negative</hi>
+Faith or Opi<g ref="char:EOLhyphen"/>nion is True. If you refuſe, ſince your exacting it of me, has
+made it decent, e<g ref="char:EOLhyphen"/>quitable, and juſt, you are convinced to be a very ill man,
+and to doubt of the Faith you profeſs to hold your ſelf, and propoſe to
+others as the way to Salvation. And, if you do it, yet acknowledge your own
+Interpretations of Scripture, and your Chur<g ref="char:EOLhyphen"/>ches too (which grounds all your
+Faith) to be Fallible, you are one of the boldeſt and raſheſt Swearers
+that ever called himſelf a Chriſtian; and in either caſe, muſt loſe
+your credit for ever with your Flock and Audi<g ref="char:EOLhyphen"/>tory.</p>
+            <p>But that we may draw to a Concluſion, I beſeech you, Sir, if
+you have any more to ſay to me, let's have no more of this tri<g ref="char:EOLhyphen"/>fling.
+Conſider what you are about: you are about Controverſie, whoſe work it is
+to ſettle Chriſtian Faith upon certain Grounds; and ſince you profeſs
+your Faith to have been taught by Chriſt, this is requir'd of your, if you
+have any ſuch Faith to ſettle, or Grounds to ſettle it on. Go to work
+like a Scho<g ref="char:EOLhyphen"/>lar, and do not thus expoſe your ſelf for <pb n="37" facs="tcp:62810:19"/>Children to laugh at. Lay your Principles firſt, then draw your
+Conſequences; war<g ref="char:EOLhyphen"/>rant them rightly deduc'd, and bring them to the
+Concluſion, or the Poſition that is contradictory to your Adverſaries
+Tenet. 'Tis manly to affirm confidently what one holds heartily; 'tis becoming
+a Man to argue againſt your Adverſary ſmartly, and not to ſpare him:
+but 'tis the height of ridiculouſneſs, to task him only with Que<g ref="char:EOLhyphen"/>ſtions,
+and putting him to make ſacred Pro<g ref="char:EOLhyphen"/>teſtations, inſtead of combating him
+with your Reaſons: Whenas you knew well enough before-hand, what he holds,
+and what he would Anſwer. One thing I muſt needs re-mind you of at parting,
+becauſe I fear you will be apt to for<g ref="char:EOLhyphen"/>get it; which is, that you bear in
+me<g ref="char:EOLhyphen"/>mory the Oath you owe me, that your Tenets are True; that is, That
+Chriſt's True Body is <hi>not</hi> in the Sacrament, That there is
+<hi>no</hi> Third or Middle State cal<g ref="char:EOLhyphen"/>led Purgatory, <hi>no</hi>
+Tranſubſtantiation, <hi>&amp;c.</hi> Then to uphold the Opinion of your
+Sincerity, let us know what Certain Grounds you confide in, to ſecure you 
+<pb n="38" facs="tcp:62810:20"/>from being Perjur'd. The taking this Teſt, may qualifie
+you in time for ſome great Office; for if your Fallible Prin<g ref="char:EOLhyphen"/>ciples, will
+juſtifie your Honeſty in ta<g ref="char:EOLhyphen"/>king ſuch an Oath, I do not know what you may
+not be fit for next.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62810:20" rendition="simple:additions"/>
+            <pb facs="tcp:62810:21"/>
+            <pb facs="tcp:62810:21" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
